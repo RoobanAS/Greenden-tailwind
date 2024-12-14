@@ -1,5 +1,4 @@
 # Greenden-tailwind 🌿
-https://roobanas.github.io/Greenden-tailwind/
 
 Greenden is a clean and responsive website created with HTML, Tailwind CSS, and some images. This site showcases a virtual plant shop offering a variety of artificial and natural flowers. Users can browse featured products, read customer reviews, and subscribe to a newsletter for updates and discounts.
 
